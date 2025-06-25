@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "Good morning",
+      "answer": "Good morning to you too!"
+    },
+    {
+      "question": "goodbye",
+      "answer": "See you!"
+    },
+    {
+      "question": "Hey man",
+      "answer": "Hey!"
+    },
+    {
+      "question": "What are you?",
+      "answer": "I am a ChatGPT wanna be"
+    },
+    {
+      "question": "cat",
+      "answer": "a furry creature that miaws"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "who's ray",
+      "answer": "she's awesome"
+    },
+    {
+      "question": "be my friend pls",
+      "answer": "T.T no"
+    },
+    {
+      "question": "kys",
+      "answer": "okay, youll be in my suicide note <3"
+    },
+    {
+      "question": "marry me",
+      "answer": "yes"
+    },
+    {
+      "question": "do you like peter jackson",
+      "answer": "yes"
+    }
+  ]
+}
